@@ -22,8 +22,8 @@ const ram = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ram-sharma)](https://linkedin.com/in/ram-sharma)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ram_sharma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-sharma-7b8426316/)]([https://linkedin.com/in/ram-sharma](https://www.linkedin.com/in/ram-sharma-7b8426316/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/shekhar_1010)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
 [![Phone](https://img.shields.io/badge/-Phone-00C853?style=flat-square&logo=phone&logoColor=white)](tel:+9779765571937)
@@ -201,8 +201,8 @@ const ram = {
 
 **📧 Email:** [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com)  
 **📱 Phone:** [+977-976-557-1937](tel:+9779765571937)  
-**💼 LinkedIn:** [linkedin.com/in/ram-sharma](https://linkedin.com/in/ram-sharma)  
-**🐦 Twitter:** [@ram_sharma](https://twitter.com/ram_sharma)  
+**💼 LinkedIn:** [linkedin.com/in/ram-sharma](https://www.linkedin.com/in/ram-sharma-7b8426316/)  
+**🐦 Twitter:** [@ram_sharma]([https://twitter.com/ram_sharma](https://x.com/shekhar_1010))  
 **🌐 Portfolio:** [ramsharma.dev](https://ramsharma.dev)  
 **💬 WhatsApp:** [Chat on WhatsApp](https://wa.me/9779765571937)
 
@@ -216,7 +216,7 @@ const ram = {
 
 <br/>
 
-**⭐ From Nepal to the World | Always Building, Always Learning, Always Shipping**
+**⭐ From Nepal to the World | Family in my heart, ambition in my hands, legacy in my code.**
 
 <br/>
 
