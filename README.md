@@ -1,19 +1,19 @@
 <div align="center">
 
-# 🚀 Ram Sharma
+# Ram Sharma
 
 ### Full Stack Engineer | AI Integration Specialist | Cloud Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Production-Ready+Solutions;MERN+%2B+PostgreSQL+%2B+AI;Real-Time+%26+Cloud-Native+Apps;From+Kathmandu+to+the+World+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Production-Ready+Solutions;MERN+%2B+PostgreSQL+%2B+AI;Real-Time+%26+Cloud-Native+Apps;From+Kathmandu+to+the+World" alt="Typing SVG" />
 
 <br/>
 
 ```typescript
 const ram = {
-    location: "Dhapasi,Kathmandu, Nepal 🇳🇵",
+    location: "Dhapasi, Kathmandu, Nepal",
     education: "BSc CSIT @ Amrit Campus, Lainchaur",
     role: "Full Stack Engineer",
-    expertise: ["MERN Stack", "PostgreSQL", "AI Integration", "Cloud DevOps","Editor"],
+    expertise: ["MERN Stack", "PostgreSQL", "AI Integration", "Cloud DevOps", "Editor"],
     passion: "Turning ideas into scalable production systems",
     status: "Open to opportunities & collaborations",
     motto: "Every commit is a promise: to my dream, to my family, to our legacy."
@@ -22,12 +22,12 @@ const ram = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-sharma-7b8426316/)]([https://linkedin.com/in/ram-sharma](https://www.linkedin.com/in/ram-sharma-7b8426316/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/shekhar_1010)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
-[![Phone](https://img.shields.io/badge/-Phone-00C853?style=flat-square&logo=phone&logoColor=white)](tel:+9779765571937)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ramsharma.dev)
+[![Phone](https://img.shields.io/badge/-Call-00C853?style=flat-square&logo=phone&logoColor=white)](tel:+9779765571937)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-react-jdd5.vercel.app/)
 
 <br/>
 
@@ -37,20 +37,20 @@ const ram = {
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 **BSc CSIT Student** at Amrit Campus, Lainchaur, Kathmandu  
-💼 **Full Stack Engineer** specializing in MERN + PostgreSQL + AI  
-🌍 **Based in Nepal**, building solutions for the world  
-☁️ **Cloud Native** — Hands-on with AWS, Docker, and production deployments  
-🤖 **AI Enthusiast** — Integrating AI into real-world applications  
-📱 **Available** — +977-976-557-1937
+**BSc CSIT Student** at Amrit Campus, Lainchaur, Kathmandu  
+**Full Stack Engineer** specializing in MERN + PostgreSQL + AI  
+**Based in Nepal**, building solutions for the world  
+**Cloud Native** — Hands-on with AWS, Docker, and production deployments  
+**AI Enthusiast** — Integrating AI into real-world applications  
+**Available** — [+977-976-557-1937](tel:+9779765571937)
 
 > *"I don't just write code. I architect solutions, deploy to production, and iterate based on real user feedback."*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -105,7 +105,7 @@ const ram = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -125,12 +125,12 @@ const ram = {
 
 ---
 
-## 🏆 What I Build
+## What I Build
 
 <div align="center">
 
-| 🎯 Category | 💡 Specialization |
-|------------|-------------------|
+| Category | Specialization |
+|----------|----------------|
 | **Full Stack Apps** | MERN Stack with PostgreSQL, Real-time features, Scalable architecture |
 | **AI Integration** | OpenAI, Claude, Gemini APIs in production apps |
 | **SaaS Products** | Resume builders, Automation tools, Business solutions |
@@ -144,13 +144,69 @@ const ram = {
 
 ---
 
-## 🎯 Current Focus
+## Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Multi-Vendor E-Commerce Platform
+Full-stack marketplace with vendor dashboards, Stripe payments, AI product descriptions
+
+**Tech:** Node.js, Express, Prisma, PostgreSQL, React, Redux, Inngest, OpenAI
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://your-ecommerce-demo.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/ECOM_APP)
+
+</td>
+<td width="50%">
+
+### Next.js Blog Platform
+Modern blog with GitHub OAuth, protected routes, session management
+
+**Tech:** Next.js 14, NextAuth.js, MongoDB, CSS Modules
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://your-blog-demo.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/nextjs-blog)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Portfolio Website
+Animated portfolio with Framer Motion, parallax effects, smooth scrolling
+
+**Tech:** React, SCSS, Framer Motion, React Parallax
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://portfolio-react-jdd5.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/Portfolio-React)
+
+</td>
+<td width="50%">
+
+### More Projects
+Check out my repositories for additional projects including real-time chat apps, SaaS tools, and API integrations
+
+[![View All](https://img.shields.io/badge/View%20All-Repositories-00D9FF?style=for-the-badge&logo=github)](https://github.com/ram2005024?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Current Focus
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-### 🔥 Building
+### Building
 - AI-powered SaaS applications
 - Real-time collaboration platforms
 - Cloud-native microservices
@@ -159,7 +215,7 @@ const ram = {
 </td>
 <td align="center" width="50%">
 
-### 📚 Learning
+### Learning
 - Kubernetes & container orchestration
 - System design patterns
 - Advanced PostgreSQL optimization
@@ -171,17 +227,17 @@ const ram = {
 
 ---
 
-## 💼 Open For Opportunities
+## Open For Opportunities
 
 <div align="center">
 
 ### I'm actively seeking roles where I can:
 
-✅ **Deploy real production systems** with measurable impact  
-✅ **Collaborate with experienced teams** and learn from the best  
-✅ **Take ownership** of features and products end-to-end  
-✅ **Scale applications** to thousands/millions of users  
-✅ **Contribute** to open-source and give back to the community
+**Deploy real production systems** with measurable impact  
+**Collaborate with experienced teams** and learn from the best  
+**Take ownership** of features and products end-to-end  
+**Scale applications** to thousands/millions of users  
+**Contribute** to open-source and give back to the community
 
 <br/>
 
@@ -191,20 +247,20 @@ const ram = {
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-### 💬 Get in touch for collaborations, opportunities, or just to chat about tech!
+### Get in touch for collaborations, opportunities, or just to chat about tech
 
 <br/>
 
-**📧 Email:** [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com)  
-**📱 Phone:** [+977-976-557-1937](tel:+9779765571937)  
-**💼 LinkedIn:** [linkedin.com/in/ram-sharma](https://www.linkedin.com/in/ram-sharma-7b8426316/)  
-**🐦 Twitter:** [@ram_sharma]([https://twitter.com/ram_sharma](https://x.com/shekhar_1010))  
-**🌐 Portfolio:** [ramsharma.dev](https://ramsharma.dev)  
-**💬 WhatsApp:** [Chat on WhatsApp](https://wa.me/9779765571937)
+**Email:** [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com)  
+**Phone:** [+977-976-557-1937](tel:+9779765571937)  
+**LinkedIn:** [linkedin.com/in/ram-sharma-7b8426316](https://www.linkedin.com/in/ram-sharma-7b8426316/)  
+**Twitter:** [@shekhar_1010](https://x.com/shekhar_1010)  
+**Portfolio:** [portfolio-react-jdd5.vercel.app](https://portfolio-react-jdd5.vercel.app/)  
+**WhatsApp:** [Chat on WhatsApp](https://wa.me/9779765571937)
 
 <br/>
 
@@ -216,7 +272,7 @@ const ram = {
 
 <br/>
 
-**⭐ From Nepal to the World | Family in my heart, ambition in my hands, legacy in my code.**
+**From Nepal to the World | Family in my heart, ambition in my hands, legacy in my code.**
 
 <br/>
 
