@@ -13,21 +13,20 @@ const ram = {
     location: "Dhapasi, Kathmandu, Nepal",
     education: "BSc CSIT @ Amrit Campus, Lainchaur",
     role: "Full Stack Engineer",
-    expertise: ["MERN Stack", "PostgreSQL", "AI Integration", "Cloud DevOps", "Editor"],
-    passion: "Turning ideas into scalable production systems",
-    status: "Open to opportunities & collaborations",
-    motto: "Every commit is a promise: to my dream, to my family, to our legacy."
+    tech: ["MERN", "PostgreSQL", "AI", "Cloud", "Real-time Systems"],
+    philosophy: "Ship fast. Iterate faster. Impact lives.",
+    commitment: "Every commit is a promise to my dream, family, and legacy.",
+    availability: "Open for opportunities"
 };
 ```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/shekhar_1010)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
-[![Phone](https://img.shields.io/badge/-Call-00C853?style=flat-square&logo=phone&logoColor=white)](tel:+9779765571937)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-react-jdd5.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)
+[![Twitter](https://img.shields.io/badge/-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shekhar_1010)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-jdd5.vercel.app/)
 
 <br/>
 
@@ -37,75 +36,247 @@ const ram = {
 
 ---
 
-## About Me
+## About
 
-**BSc CSIT Student** at Amrit Campus, Lainchaur, Kathmandu  
-**Full Stack Engineer** specializing in MERN + PostgreSQL + AI  
-**Based in Nepal**, building solutions for the world  
-**Cloud Native** — Hands-on with AWS, Docker, and production deployments  
-**AI Enthusiast** — Integrating AI into real-world applications  
-**Available** — [+977-976-557-1937](tel:+9779765571937)
+I'm a full-stack engineer from Nepal who doesn't just write code—I ship production systems that real people use. Currently pursuing BSc CSIT at Amrit Campus while building scalable applications that solve real problems.
 
-> *"I don't just write code. I architect solutions, deploy to production, and iterate based on real user feedback."*
+**What I do differently:** I don't stop at tutorials. I take ideas to production, handle real user traffic, integrate payments, deploy to cloud infrastructure, and iterate based on actual feedback.
+
+> *"The web is my canvas. PostgreSQL is my foundation. AI is my edge. Cloud is my distribution."*
+
+**Contact:** [+977-976-557-1937](tel:+9779765571937) | [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com)
 
 ---
 
-## Tech Stack
+## Production Portfolio
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### 🎯 Live Applications People Actually Use
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
-![Inngest](https://img.shields.io/badge/-Inngest-5B2EFF?style=flat-square)
+</div>
 
-### Database & ORM
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<div align="center">
 
-### AI & Automation
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/-Claude-191919?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
+### Multi-Vendor E-Commerce Platform
+*Enterprise-grade marketplace solution*
 
-### Tools & More
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+<img src="https://img.shields.io/badge/Status-Live%20in%20Production-success?style=for-the-badge" />
+
+**Complete e-commerce ecosystem** with vendor management, real-time inventory, Stripe payment processing, automated order workflows, and AI-powered product descriptions.
+
+**Built with:**  
+`Node.js` `Express` `PostgreSQL` `Prisma` `React` `Redux` `Inngest` `OpenAI` `Stripe` `Cloudinary`
+
+**Architecture:**
+- Multi-tenant vendor system
+- Background job processing
+- Payment webhook handling
+- Email notification system
+- Admin dashboard with analytics
+
+<br/>
+
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-00D9FF?style=for-the-badge)](https://ecom-app-gilt.vercel.app/)
+[![View Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/ECOM_APP)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### AI-Powered Resume Builder
+*Professional resume generation with AI*
+
+<img src="https://img.shields.io/badge/Status-Live%20in%20Production-success?style=for-the-badge" />
+
+**Intelligent resume builder** featuring AI-powered content suggestions, multiple professional templates, real-time preview, PDF export, and ATS optimization.
+
+**Built with:**  
+`PostgreSQL` `Express` `React` `Node.js` `OpenAI` `PDF Generation` `TailwindCSS`
+
+**Features:**
+- AI content enhancement
+- Multiple export formats
+- Template customization
+- Cloud storage integration
+- Mobile responsive
+
+<br/>
+
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-00D9FF?style=for-the-badge)](https://resume-pern-frontend.vercel.app/)
+[![View Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### Next.js Blog Platform
+*Modern content management system*
+
+<img src="https://img.shields.io/badge/Status-Live%20in%20Production-success?style=for-the-badge" />
+
+**Full-featured blog platform** with GitHub OAuth, protected routes, session management, admin panel, and content moderation system.
+
+**Built with:**  
+`Next.js 14` `NextAuth.js` `MongoDB` `Mongoose` `Server Components` `App Router`
+
+**Capabilities:**
+- Role-based access control
+- SEO optimization
+- Image optimization
+- Draft system
+- Comment moderation
+
+<br/>
+
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-00D9FF?style=for-the-badge)](https://next14-starter-31as.vercel.app/)
+[![View Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### Expense Tracker Pro
+*Smart financial management tool*
+
+<img src="https://img.shields.io/badge/Status-Live%20in%20Production-success?style=for-the-badge" />
+
+**Complete expense management system** with category tracking, budget alerts, data visualization, export functionality, and spending analytics.
+
+**Built with:**  
+`MongoDB` `Express` `React` `Node.js` `Chart.js` `Redux` `JWT Auth`
+
+**Key Features:**
+- Real-time analytics
+- Budget planning
+- Recurring expenses
+- Data visualization
+- CSV export
+
+<br/>
+
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-00D9FF?style=for-the-badge)](https://mern-expense-tracker-frontend-nine.vercel.app/)
+[![View Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### More Projects
+
+<br/>
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-Animated_UI_with_Parallax-00D9FF?style=for-the-badge)](https://portfolio-react-jdd5.vercel.app/)
+[![View All](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024?tab=repositories)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## Technical Expertise
+
+<div align="center">
+
+### Core Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### Frontend
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Backend & Real-time
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-5B2EFF?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-00897B?style=for-the-badge)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### AI & Integration
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-191919?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### Database & Tools
+
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## What I Actually Build
+
+<div align="center">
+
+| Domain | Real Implementation |
+|--------|---------------------|
+| **Full Stack Applications** | MERN/PERN stacks with real user authentication, payment processing, and cloud deployment |
+| **AI Integration** | Production-ready OpenAI/Claude integrations for content generation and intelligent features |
+| **E-Commerce Systems** | Complete marketplace solutions with vendor management, inventory, and payment processing |
+| **Real-time Features** | Socket.IO implementations for chat, notifications, and live collaboration |
+| **Payment Processing** | Stripe integration with webhook handling, subscription management, and invoicing |
+| **Background Jobs** | Automated workflows using Inngest for emails, notifications, and data processing |
+| **Authentication** | JWT, OAuth, session management with role-based access control |
+| **Cloud Architecture** | Docker containers, AWS deployment, CI/CD pipelines, and monitoring |
+| **Database Design** | PostgreSQL and MongoDB schemas optimized for scale and performance |
+| **API Development** | RESTful APIs with proper error handling, validation, and documentation |
+
+</div>
+
+---
+
+## GitHub Performance
 
 <div align="center">
 
@@ -115,111 +286,46 @@ const ram = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ram2005024&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-</div>
-
-<div align="center">
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ram2005024&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
 
 </div>
 
 ---
 
-## What I Build
-
-<div align="center">
-
-| Category | Specialization |
-|----------|----------------|
-| **Full Stack Apps** | MERN Stack with PostgreSQL, Real-time features, Scalable architecture |
-| **AI Integration** | OpenAI, Claude, Gemini APIs in production apps |
-| **SaaS Products** | Resume builders, Automation tools, Business solutions |
-| **Real-time Systems** | Socket.IO for chat apps, Live collaboration tools |
-| **Authentication** | JWT, OAuth, Secure session management |
-| **Cloud Deployment** | Docker, AWS, Vercel, Render with CI/CD |
-| **APIs & Microservices** | RESTful design, Background workers, Cron jobs |
-| **UI/UX** | Modern, responsive interfaces with Tailwind & Figma |
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### Multi-Vendor E-Commerce Platform
-Full-stack marketplace with vendor dashboards, Stripe payments, AI product descriptions
-
-**Tech:** Node.js, Express, Prisma, PostgreSQL, React, Redux, Inngest, OpenAI
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://your-ecommerce-demo.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/ECOM_APP)
-
-</td>
-<td width="50%">
-
-### Next.js Blog Platform
-Modern blog with GitHub OAuth, protected routes, session management
-
-**Tech:** Next.js 14, NextAuth.js, MongoDB, CSS Modules
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://your-blog-demo.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/nextjs-blog)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Portfolio Website
-Animated portfolio with Framer Motion, parallax effects, smooth scrolling
-
-**Tech:** React, SCSS, Framer Motion, React Parallax
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://portfolio-react-jdd5.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ram2005024/Portfolio-React)
-
-</td>
-<td width="50%">
-
-### More Projects
-Check out my repositories for additional projects including real-time chat apps, SaaS tools, and API integrations
-
-[![View All](https://img.shields.io/badge/View%20All-Repositories-00D9FF?style=for-the-badge&logo=github)](https://github.com/ram2005024?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Current Focus
+## Current Mission
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-### Building
-- AI-powered SaaS applications
-- Real-time collaboration platforms
-- Cloud-native microservices
-- Production-grade full stack apps
+### Building Now
+**AI-powered SaaS applications**  
+Complete platforms from database to deployment
+
+**Real-time collaboration tools**  
+WebSocket implementations at scale
+
+**Cloud-native microservices**  
+Docker, Kubernetes, serverless architecture
+
+**Production systems**  
+Apps that handle real traffic and real money
 
 </td>
 <td align="center" width="50%">
 
-### Learning
-- Kubernetes & container orchestration
-- System design patterns
-- Advanced PostgreSQL optimization
-- Serverless architectures
+### Mastering Next
+**System design patterns**  
+Scalable architecture for 100K+ users
+
+**Advanced PostgreSQL**  
+Query optimization and performance tuning
+
+**Kubernetes orchestration**  
+Container management and deployment
+
+**Serverless architectures**  
+AWS Lambda, Edge functions, and CDN
 
 </td>
 </tr>
@@ -227,44 +333,106 @@ Check out my repositories for additional projects including real-time chat apps,
 
 ---
 
-## Open For Opportunities
+## Looking For
 
 <div align="center">
 
-### I'm actively seeking roles where I can:
+### Where I Want To Make Impact
 
-**Deploy real production systems** with measurable impact  
-**Collaborate with experienced teams** and learn from the best  
-**Take ownership** of features and products end-to-end  
-**Scale applications** to thousands/millions of users  
-**Contribute** to open-source and give back to the community
+I'm actively seeking opportunities to work on **real products** with **real users** at companies that:
+
+**Ship to production** — Not just demos, but systems that handle actual traffic and solve real problems
+
+**Value ownership** — Where I can own features end-to-end, from database design to deployment
+
+**Embrace growth** — Teams that challenge each other and learn together
+
+**Build for scale** — Applications that need to handle thousands or millions of users
+
+**Care about craft** — Clean code, proper testing, and engineering excellence
 
 <br/>
 
-> **Ready to join your team and make an impact from day one.**
+### What I Bring
+
+**Production experience** — I've shipped 4+ full-stack applications that are live and used by real people
+
+**Full ownership mindset** — I don't just write features, I own them: design, implementation, testing, deployment, monitoring
+
+**Technical versatility** — MERN, PERN, Next.js, AI integration, real-time systems, payment processing, cloud deployment
+
+**Problem-solving bias** — I figure things out. If I don't know it, I learn it and implement it
+
+**Startup mentality** — Move fast, ship often, iterate based on feedback
+
+<br/>
+
+> **I'm not looking for a job. I'm looking for a mission.**
 
 </div>
 
 ---
 
-## Let's Connect
+## Connect With Me
 
 <div align="center">
 
-### Get in touch for collaborations, opportunities, or just to chat about tech
+### Let's build something remarkable together
 
 <br/>
 
-**Email:** [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com)  
-**Phone:** [+977-976-557-1937](tel:+9779765571937)  
-**LinkedIn:** [linkedin.com/in/ram-sharma-7b8426316](https://www.linkedin.com/in/ram-sharma-7b8426316/)  
-**Twitter:** [@shekhar_1010](https://x.com/shekhar_1010)  
-**Portfolio:** [portfolio-react-jdd5.vercel.app](https://portfolio-react-jdd5.vercel.app/)  
-**WhatsApp:** [Chat on WhatsApp](https://wa.me/9779765571937)
+<table>
+<tr>
+<td align="center">
+
+**Email**  
+[sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com)
+
+</td>
+<td align="center">
+
+**Phone**  
+[+977-976-557-1937](tel:+9779765571937)
+
+</td>
+<td align="center">
+
+**LinkedIn**  
+[ram-sharma-7b8426316](https://www.linkedin.com/in/ram-sharma-7b8426316/)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Twitter**  
+[@shekhar_1010](https://x.com/shekhar_1010)
+
+</td>
+<td align="center">
+
+**WhatsApp**  
+[Message Me](https://wa.me/9779765571937)
+
+</td>
+<td align="center">
+
+**Portfolio**  
+[View My Work](https://portfolio-react-jdd5.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)
+[![Schedule Call](https://img.shields.io/badge/📞_Schedule_Call-00C853?style=for-the-badge&logo=phone&logoColor=white)](tel:+9779765571937)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Build%20The%20Future&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 <br/>
 
@@ -272,10 +440,11 @@ Check out my repositories for additional projects including real-time chat apps,
 
 <br/>
 
-**From Nepal to the World | Family in my heart, ambition in my hands, legacy in my code.**
+**From Kathmandu to the World**  
+*Building the future, one commit at a time*
 
 <br/>
 
-<sub>*"The best time to start was yesterday. The next best time is now. Let's build the future together."*</sub>
+<sub>Family in my heart · Ambition in my hands · Legacy in my code</sub>
 
 </div>
