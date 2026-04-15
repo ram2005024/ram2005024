@@ -1,29 +1,34 @@
-
----
-
-
 ````md
 <div align="center">
 
 # Ram Sharma
 
-### Full Stack Engineer | Backend Systems Engineer | AI Integration Specialist
+### Backend Systems Engineer | Full Stack Developer | AI Integration Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Systems;Django+%2B+FastAPI+%2B+PostgreSQL;Scalable+Backend+%26+Real-Time+Apps;From+Kathmandu+to+Global+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Django+%2B+FastAPI+%2B+PostgreSQL;AI-Powered+Production+Applications;From+Kathmandu+to+Global+Impact" />
 
 <br/>
 
 ```python
 ram = {
     "location": "Kathmandu, Nepal",
-    "education": "BSc CSIT @ Amrit Campus",
-    "role": "Full Stack + Backend Engineer",
-    "backend_focus": ["Django", "FastAPI", "Node.js"],
+    "role": "Backend + Full Stack Engineer",
+    "backend": ["Django", "FastAPI", "Node.js"],
     "frontend": ["React", "Next.js"],
     "database": ["PostgreSQL", "MongoDB"],
-    "specialization": ["Scalable APIs", "AI Integration", "Real-time Systems"],
-    "mission": "Build systems that scale, solve real problems, and impact lives",
-    "current_focus": "Mastering backend architecture & distributed systems",
+    "core_skills": [
+        "Scalable API Design",
+        "System Architecture",
+        "AI Integration",
+        "Real-time Systems"
+    ],
+    "mission": "Build scalable systems that solve real-world problems",
+    "learning": [
+        "Distributed Systems",
+        "Advanced PostgreSQL",
+        "Microservices Architecture",
+        "Cloud Infrastructure"
+    ],
     "availability": "Open to opportunities"
 }
 ````
@@ -38,185 +43,119 @@ ram = {
 
 ---
 
-# 🧠 About Me
+## 🧠 About
 
-I am a **full-stack engineer evolving into a backend systems engineer**, focused on building **production-grade applications** — not just projects.
+Backend-focused engineer building **production-grade systems** with real-world complexity.
 
-* I design APIs that handle real-world complexity
-* I build systems with **authentication, payments, real-time updates, and AI integration**
-* I deploy applications to cloud environments and optimize them for performance
+* Scalable API design (Django + FastAPI)
+* Authentication, payments, real-time features
+* Cloud deployment & performance optimization
 
-> **"I don't just build features. I build systems that scale."**
+> **"I build systems, not just features."**
 
 ---
 
-# ⚡ Engineering Focus
+## ⚡ Core Engineering Focus
 
-### 🔥 Backend Systems (CORE FOCUS)
+### 🔥 Backend Systems
 
-* Django → business logic, scalable backend systems
-* FastAPI → high-performance APIs, AI/ML services
-* REST API design → clean, versioned, production-ready APIs
-* Authentication → JWT, OAuth, role-based access
+* Django (business logic, scalable architecture)
+* FastAPI (high-performance APIs, AI services)
+* REST API design (versioning, validation, security)
+* JWT / OAuth / RBAC authentication
 
 ### ⚡ System Design
 
-* Multi-tenant architectures
-* Background job processing (queues, events)
-* Microservices fundamentals
-* API gateway patterns
+* Multi-tenant systems
+* Background jobs & event-driven workflows
+* API gateway & microservices fundamentals
 
 ### 🤖 AI Integration
 
 * OpenAI / LLM APIs
-* AI-powered features (content, automation, analytics)
-* Building AI-backed SaaS products
+* AI-powered SaaS features
+* Automation & analytics systems
 
 ---
 
-# 🚀 Production Projects
+## 🚀 Production Projects
 
-## 🛒 Multi-Vendor E-Commerce Platform
+### 🛒 Multi-Vendor E-Commerce Platform
 
-**Full marketplace system with real business logic**
-
-**Key Features:**
-
-* Vendor-based multi-tenant architecture
-* Stripe payment integration + webhook handling
-* Real-time inventory management
-* Background job processing (emails, events)
+* Multi-tenant vendor system
+* Stripe payments + webhook handling
+* Real-time inventory & order workflows
+* Background job processing
 
 **Tech:** Node.js, PostgreSQL, Prisma, React, Stripe, OpenAI
-
 👉 [https://ecom-app-gilt.vercel.app/](https://ecom-app-gilt.vercel.app/)
 
 ---
 
-## 📄 AI Resume Builder
+### 📄 AI Resume Builder
 
-**AI-powered professional resume generation**
-
-* AI-assisted content creation
+* AI-powered content generation
 * PDF export system
 * ATS-optimized templates
 
 **Tech:** React, Node.js, PostgreSQL, OpenAI
-
 👉 [https://resume-pern-frontend.vercel.app/](https://resume-pern-frontend.vercel.app/)
 
 ---
 
-## 📝 Next.js Blog Platform
+### 📝 Next.js Blog Platform
 
-**Modern CMS with authentication and role-based access**
-
-* GitHub OAuth login
-* Protected routes & sessions
+* OAuth authentication (GitHub)
+* Role-based access control
 * Admin moderation system
 
 **Tech:** Next.js, NextAuth, MongoDB
 
 ---
 
-## 💰 Expense Tracker
+### 💰 Expense Tracker
 
-**Full financial tracking system**
+* Budget tracking & analytics
+* Data visualization dashboard
+* Export functionality
 
-* Budget alerts
-* Analytics dashboard
-* Data visualization
-
-**Tech:** MERN Stack + Chart.js
+**Tech:** MERN Stack
 
 ---
 
-# 📊 Engineering Mindset
+## 🧩 What I Build
 
-✔ Build → Deploy → Scale → Iterate
-✔ Learn → Apply → Productionize
-✔ Think in systems, not features
-
----
-
-# 🧩 What Makes Me Different
-
-* I ship **production apps**, not clones
-* I understand **backend + frontend + deployment**
-* I focus on **real-world problems, not tutorials**
-* I am transitioning into **system design & scalable architecture**
+* Scalable backend systems
+* AI-powered applications
+* Real-time features (WebSockets)
+* Payment-integrated platforms
+* Cloud-deployed production apps
 
 ---
 
-# 🔭 Currently Leveling Up
+## 🔭 Currently Leveling Up
 
 * Advanced Django architecture
 * FastAPI for high-performance systems
-* PostgreSQL query optimization
-* Distributed systems basics
-* Docker + cloud deployments
+* PostgreSQL optimization
+* Distributed systems
+* Docker & cloud deployments
 
 ---
 
-# 🎯 Goal
+## 🎯 Goal
 
-To become a **world-class backend engineer** who builds systems that handle:
+Build **high-scale backend systems** that handle:
 
-* Thousands to millions of users
+* Real users
 * Real-time data
-* AI-powered workflows
-
----
-
-# 🤝 Let’s Work Together
-
-I’m looking for:
-
-* Backend / Full-stack roles
-* Real product teams
-* Startup environments
-* Systems that need to scale
+* AI-driven workflows
 
 ---
 
 <div align="center">
 
-### 🚀 "From Kathmandu to global systems"
+### 🚀 From Kathmandu to Global Systems
 
 </div>
 ```
-
----
-
-# 💥 Why This Version is TOP-NOTCH
-
-### ✅ Now you look like:
-
-* Backend-focused engineer (not confused dev)
-* System thinker (not feature coder)
-* Future FAANG / startup-level dev
-
----
-
-# 🔥 Final Advice (VERY IMPORTANT)
-
-Now your README says:
-
-> “I am becoming dangerous”
-
-But you MUST back it with:
-
-### Next moves:
-
-* Build **1 Django + FastAPI hybrid project**
-* Add:
-
-  * Redis / caching
-  * Background jobs (Celery / queues)
-  * API rate limiting
-* Show **architecture diagram (BIG BOOST)**
-
----
-
-
-
