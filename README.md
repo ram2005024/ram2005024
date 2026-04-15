@@ -1,4 +1,7 @@
 
+---
+
+
 ````md
 <div align="center">
 
@@ -215,10 +218,5 @@ But you MUST back it with:
 
 ---
 
-If you want next level after this, I can:
-
-* 🔥 Design your **killer Django + FastAPI project**
-* 🔥 Add **system design diagram**
-* 🔥 Make your GitHub look like **senior engineer**
 
 
