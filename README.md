@@ -1,91 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,30:0d1117,70:001a1a,100:00E5C4&height=140&section=header&text=Ram%20Sharma&fontSize=42&fontColor=00E5C4&fontAlignY=65&animation=fadeIn&desc=Backend%20%7C%20Full%20Stack%20%7C%20AI%20Engineer&descAlignY=85&descSize=16&descColor=f5f4ef" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,40:0d1117,80:001a0f,100:00ff88&height=160&section=header&text=Ram%20Sharma&fontSize=52&fontColor=00ff88&fontAlignY=60&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%20Systems&descAlignY=80&descSize=15&descColor=c9f0da" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=15&duration=3000&pause=800&color=00E5C4&center=true&vCenter=true&width=650&lines=Django+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+Python;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis;React+%C2%B7+Next.js+%C2%B7+TypeScript;AI+Integration+%7C+Real-Time+%7C+Cloud-Native;Kathmandu+%E2%86%92+Building+for+Global+Scale" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=600&color=00ff88&center=true&vCenter=true&width=700&lines=I+build+backends+that+don%27t+break+at+3AM;Django+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+PostgreSQL;Stripe+webhooks+that+actually+land%3B+jobs+that+don%27t+silently+fail;LLMs+in+prod+%E2%80%94+not+in+demos;Kathmandu+%E2%86%92+building+for+global+scale" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/shekhar_1010)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5C4?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-ff5c35?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shekhar_1010)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680"/>
 
 </div>
 
 ---
 
-## Who I am
+## `$ whoami`
 
-I'm a backend and full-stack engineer from **Dhapasi, Kathmandu** — currently studying BSc CSIT at Amrit Campus while building production systems that real people actually use.
+Backend and full-stack engineer from **Dhapasi, Kathmandu** — currently in BSc CSIT at Amrit Campus while shipping production systems that real people actually pay to use.
 
-My foundation is the **MERN/PERN stack**, and I'm actively going deep into **Python, Django, and FastAPI** — because I want to be the kind of engineer who can design and own the full backend, from a fast async endpoint to a distributed job queue. I'm not at the finish line yet, but I'm not at the start either.
+My stack is **MERN/PERN** at the core. I'm going deep into **Python, Django, and FastAPI** — not to put logos on a resume, but because I want to own the full backend: async endpoints, distributed job queues, proper data modeling, the whole thing.
 
-What drives me isn't just shipping features. It's understanding *why* systems are architected the way they are — why you'd reach for Celery over a simple cron, when PostgreSQL beats MongoDB for a given shape of data, how an LLM gets wired into a production pipeline without becoming a liability. I learn by building real things, then pushing them live.
+I learn by building things that are live and breaking, then fixing them. That cycle — ship, observe, break, understand — is how I've grown faster than any course could teach me.
 
-> *"Every commit is a promise — to the problem I'm solving, to the people who'll use it, and to the engineer I'm becoming."*
+> *"Every commit is a promise — to the problem, to the people using it, and to the engineer I'm becoming."*
 
-📍 Dhapasi, Kathmandu, Nepal &nbsp;·&nbsp; 📬 [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com) &nbsp;·&nbsp; 📞 [+977-976-557-1937](tel:+9779765571937)
+📍 Dhapasi, Kathmandu &nbsp;·&nbsp; 📬 [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com) &nbsp;·&nbsp; 📞 [+977-976-557-1937](tel:+9779765571937)
 
 ---
 
-## What I'm working with
+## `$ cat stack.py`
 
 ```python
 ram = {
     "location"   : "Dhapasi, Kathmandu, Nepal",
     "education"  : "BSc CSIT @ Amrit Campus, Lainchaur",
 
-    # Solid — shipped to production
-    "backend"    : ["Node.js / Express", "Django (deepening)", "FastAPI (deepening)"],
-    "frontend"   : ["React", "Next.js 14", "TypeScript", "TailwindCSS"],
-    "databases"  : ["PostgreSQL", "MongoDB", "Redis (learning)"],
-    "orm"        : ["Prisma", "Mongoose", "Django ORM (learning)"],
+    # Production-tested — I've debugged these at midnight
+    "backend"    : ["Node.js / Express", "Django (deepening fast)", "FastAPI (deepening fast)"],
+    "frontend"   : ["React", "Next.js 14", "TypeScript", "TailwindCSS", "Framer Motion"],
+    "databases"  : ["PostgreSQL", "MongoDB", "Redis"],
+    "orm"        : ["Prisma", "Mongoose", "Django ORM"],
 
-    # Tools I've actually used in real projects
-    "ai_stack"   : ["OpenAI API", "Claude API", "Gemini", "RAG (learning)"],
-    "payments"   : ["Stripe — webhooks, subscriptions, checkout flows"],
-    "realtime"   : ["Socket.IO", "WebSockets", "background jobs (Inngest)"],
-    "devops"     : ["Docker", "Vercel", "Render", "Nginx", "GitHub Actions"],
+    # Actually integrated, not just listed
+    "ai_stack"   : ["OpenAI API", "Claude API", "Gemini", "RAG (active)"],
+    "payments"   : ["Stripe — webhooks, subscriptions, checkout, refunds"],
+    "realtime"   : ["Socket.IO", "WebSockets", "Inngest background jobs"],
+    "devops"     : ["Docker", "Nginx", "Vercel", "Render", "GitHub Actions"],
     "auth"       : ["JWT", "OAuth / Passport.js", "NextAuth.js", "RBAC"],
 
-    # Where I'm heading
+    # The roadmap — not aspirational, actively in progress
     "leveling_up": [
         "Django REST Framework — production-grade Python APIs",
-        "FastAPI async patterns — Pydantic, dependency injection",
-        "PostgreSQL query optimization and indexing strategy",
-        "Distributed systems — queues, consistency, fault tolerance",
-        "AI Engineering — RAG pipelines, agents, LLM prod systems",
-        "Kubernetes & cloud-native deployments",
+        "FastAPI async — Pydantic v2, dependency injection, lifespan events",
+        "PostgreSQL — query plans, indexes, EXPLAIN ANALYZE",
+        "Distributed systems — queues, idempotency, eventual consistency",
+        "AI Engineering — RAG pipelines, tool-use agents, LLM observability",
+        "Kubernetes — because Docker Compose only takes you so far",
     ],
 
-    "philosophy" : "Ship real things. Learn from what breaks. Build for the next order of magnitude.",
+    "philosophy" : "Ship real things. Learn from what breaks. Repeat.",
     "status"     : "Open to backend, full-stack, or AI engineering roles",
 }
 ```
 
 ---
 
-## Production Systems
+## `$ ls ./production/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Multi-Vendor E-Commerce Platform
+### 🛒 Multi-Vendor E-Commerce
 `Node.js · PostgreSQL · Prisma · React · Redux · Stripe · OpenAI · Inngest · Cloudinary`
 
-Full marketplace with multi-tenant vendor management, Stripe payment processing, background job automation via Inngest, AI-generated product descriptions, webhook handling, and an admin analytics dashboard.
+Full marketplace — multi-tenant vendor management, Stripe webhooks that actually fire, background job automation via Inngest, AI-generated product descriptions, admin analytics dashboard.
 
-Not a demo. It processes real orders.
+**Not a demo. It processes real orders.**
 
-[![Launch](https://img.shields.io/badge/Launch_App-00E5C4?style=flat-square&logo=vercel&logoColor=black)](https://ecom-app-gilt.vercel.app/)
-[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024/ECOM_APP)
+[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://ecom-app-gilt.vercel.app/)&nbsp;
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024/ECOM_APP)
 
 </td>
 <td width="50%" valign="top">
@@ -93,23 +91,25 @@ Not a demo. It processes real orders.
 ### 📄 AI Resume Builder
 `React · Node.js · PostgreSQL · OpenAI · TailwindCSS`
 
-AI-powered resume generator with real user accounts, multiple professional templates, real-time preview, PDF export, and ATS optimization hints. Built because I needed one, stayed because others did too.
+AI-powered resume generator with real user accounts, multiple professional templates, real-time preview, PDF export, and ATS optimization hints.
 
-[![Launch](https://img.shields.io/badge/Launch_App-00E5C4?style=flat-square&logo=vercel&logoColor=black)](https://resume-pern-frontend.vercel.app/)
-[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
+**Built because I needed one. Stayed because others did too.**
+
+[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://resume-pern-frontend.vercel.app/)&nbsp;
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Next.js Blog Platform
-`Next.js 14 · MongoDB · NextAuth.js · App Router · Server Components`
+### 📝 Next.js 14 Blog Platform
+`Next.js 14 · MongoDB · NextAuth.js · App Router · ISR`
 
-Modern CMS with GitHub OAuth, role-based access control, admin content moderation, draft system, SEO optimization, and ISR caching strategy. Full auth done properly.
+Full CMS with GitHub OAuth, RBAC, admin moderation, draft system, SEO, and ISR caching. Auth done properly — edge cases included.
 
-[![Launch](https://img.shields.io/badge/Launch_App-00E5C4?style=flat-square&logo=vercel&logoColor=black)](https://next14-starter-31as.vercel.app/)
-[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
+[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://next14-starter-31as.vercel.app/)&nbsp;
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 </td>
 <td width="50%" valign="top">
@@ -117,10 +117,12 @@ Modern CMS with GitHub OAuth, role-based access control, admin content moderatio
 ### 💸 Expense Tracker Pro
 `MongoDB · Express · React · Node.js · Chart.js · Redux · JWT`
 
-Personal finance system with category tracking, budget alerts, Chart.js data visualization, recurring expense tracking, and CSV export. Clean MERN — the code actually holds up.
+Personal finance system with category tracking, budget alerts, Chart.js visualization, recurring expenses, and CSV export.
 
-[![Launch](https://img.shields.io/badge/Launch_App-00E5C4?style=flat-square&logo=vercel&logoColor=black)](https://mern-expense-tracker-frontend-nine.vercel.app/)
-[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
+**Clean MERN. The code actually holds up.**
+
+[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://mern-expense-tracker-frontend-nine.vercel.app/)&nbsp;
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 </td>
 </tr>
@@ -128,27 +130,27 @@ Personal finance system with category tracking, budget alerts, Chart.js data vis
 
 <div align="center">
 
-[![All Repos](https://img.shields.io/badge/All_Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024?tab=repositories)
+[![All Repos](https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram2005024?tab=repositories)
 
 </div>
 
 ---
 
-## Engineering focus
+## `$ cat engineering_focus.md`
 
-**Backend Architecture** — I design APIs that behave predictably under load. Authentication that covers edge cases. Payment flows with proper webhook handling. Background jobs that don't silently fail. Currently going deeper with Django REST Framework and FastAPI's async model — learning to think in Python the way I think in JS.
+**Backend Architecture** — APIs that behave under load. Auth that covers edge cases. Payment flows with idempotent webhook handling. Background jobs that fail loudly, not silently. I'm going deeper with Django REST Framework and FastAPI's async model — learning to think in Python the way I already think in JS.
 
-**Python Ecosystem** — Actively building fluency here. Django's ORM, DRF viewsets and serializers, FastAPI's dependency injection and Pydantic validation — I'm not just learning syntax, I'm learning when and why to reach for each pattern. This is the part of my stack I'm most excited about right now.
+**Python Ecosystem** — Actively building real fluency. DRF viewsets, serializers, FastAPI dependency injection, Pydantic v2 validation. Not just syntax — I'm learning *when and why* to reach for each pattern. This is the corner of my stack I'm most focused on right now.
 
-**AI Integration** — I've shipped OpenAI into production. I understand what it costs, where latency hurts, how to handle failures gracefully, and how to structure prompts for consistent output. Next: RAG pipelines and LLM agents with real memory and tool use.
+**AI Integration** — I've put OpenAI into production. I know what it costs, where latency compounds, how to handle partial failures, and how to structure prompts for deterministic output. Next on the list: RAG pipelines, tool-use agents, LLM observability with real memory.
 
-**System Design** — Multi-tenant data isolation, background job queues, event-driven patterns, the real tradeoffs between microservices and a well-structured monolith. Building this mental model deliberately, not by accident.
+**System Design Thinking** — Multi-tenant isolation, event-driven patterns, job queues, the real tradeoffs between a well-structured monolith and premature microservices. Building this mental model deliberately, not by accident from tutorials.
 
-**Real-Time & Cloud** — Socket.IO at scale, Nginx reverse proxying, Docker-based deployments, GitHub Actions CI/CD. I care about what happens after it's pushed to main.
+**Real-Time & DevOps** — Socket.IO at scale, Nginx reverse proxying, Docker-based deploys, GitHub Actions CI/CD. I care about what happens after `git push`.
 
 ---
 
-## Tech I actually use
+## `$ tech --list --used-in-prod`
 
 <div align="center">
 
@@ -179,7 +181,7 @@ Personal finance system with category tracking, budget alerts, Chart.js data vis
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square)
 
-**Infrastructure & Tooling**
+**Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -191,7 +193,7 @@ Personal finance system with category tracking, budget alerts, Chart.js data vis
 **AI & Payments**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square)
@@ -201,34 +203,36 @@ Personal finance system with category tracking, budget alerts, Chart.js data vis
 
 ---
 
-## GitHub Stats
+## `$ git log --stat`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ram2005024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00E5C4&icon_color=00E5C4&text_color=f5f4ef&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2005024&theme=tokyonight&hide_border=true&background=0a0a0b&ring=00E5C4&fire=ff5c35&currStreakLabel=00E5C4&dates=f5f4ef&sideLabels=f5f4ef" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ram2005024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&icon_color=00ff88&text_color=c9f0da&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2005024&theme=tokyonight&hide_border=true&background=0a0a0b&ring=00ff88&fire=ff5c35&currStreakLabel=00ff88&dates=c9f0da&sideLabels=c9f0da" />
 
 <br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00E5C4&text_color=f5f4ef&langs_count=10" />
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&text_color=c9f0da&langs_count=10" />
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ram2005024&theme=react-dark&hide_border=true&bg_color=0a0a0b&color=00E5C4&line=00E5C4&point=ffffff&area=true&area_color=00E5C4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ram2005024&theme=react-dark&hide_border=true&bg_color=0a0a0b&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88)
 
 </div>
 
 ---
 
-## What I'm looking for
+## `$ cat hiring.txt`
 
-I'm open to **backend, full-stack, or AI engineering roles** — and I'm honest about where I am. I have production experience with MERN/PERN and I'm actively building Python/Django/FastAPI depth. The Python side is newer, but it's where I'm putting real hours right now, and I learn fast by shipping.
+Open to **backend, full-stack, or AI engineering roles** — and I'll be straight with you.
 
-If you want someone who already knows everything, that's not me yet. If you want someone who ships, takes ownership, learns from what breaks, and shows up every day trying to get better — let's talk.
+I have production experience with MERN/PERN. I'm actively building Python/Django/FastAPI depth right now — not as a buzzword pivot, but because I genuinely want to own more of the stack. I learn fast because I learn by shipping, not by watching.
 
-I want to work on a team that cares about what they're building. Where code review is a real conversation. Where you can ask a dumb question without it defining you. Where the goal is to build something worth building.
+I'm not the engineer who knows everything yet. I'm the engineer who shows up every day, takes ownership of broken things, asks real questions, and closes the gap between what I know and what the problem needs.
 
-> I'm not looking for a job. I'm looking for a team with a mission worth joining.
+I want to work on a team that ships things worth shipping. Where code review is an actual conversation. Where being wrong is fine as long as you figure out why. Where the goal isn't just sprint velocity — it's building something that matters.
+
+> **I'm not looking for a job. I'm looking for a problem worth solving and a team worth solving it with.**
 
 ---
 
@@ -238,17 +242,17 @@ I want to work on a team that cares about what they're building. Where code revi
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-ff5c35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5C4?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ram2005024&style=flat-square&color=00E5C4&label=profile+views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ram2005024&style=flat-square&color=00ff88&label=profile+views" alt="Profile Views"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C4,50:001a1a,100:0a0a0b&height=100&section=footer&text=From+Kathmandu+%E2%80%94+Built+to+Scale&fontSize=18&fontColor=f5f4ef&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:001a0f,100:0a0a0b&height=120&section=footer&text=Kathmandu%20%E2%86%92%20Built%20to%20Scale&fontSize=20&fontColor=c9f0da&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
