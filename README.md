@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,40:0d1117,80:001a0f,100:00ff88&height=160&section=header&text=Ram%20Sharma&fontSize=52&fontColor=00ff88&fontAlignY=60&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%20Systems&descAlignY=80&descSize=15&descColor=c9f0da" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0b,40:001a0f,80:003320,100:00ff88&height=200&section=header&text=Ram%20Sharma&fontSize=60&fontColor=00ff88&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Full%20Stack&descAlignY=75&descSize=16&descColor=7effc4&stroke=00ff88&strokeWidth=2" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=600&color=00ff88&center=true&vCenter=true&width=700&lines=I+build+backends+that+don%27t+break+at+3AM;Django+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+PostgreSQL;Stripe+webhooks+that+actually+land%3B+jobs+that+don%27t+silently+fail;LLMs+in+prod+%E2%80%94+not+in+demos;Kathmandu+%E2%86%92+building+for+global+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=500&color=00ff88&center=true&vCenter=true&width=750&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Celery;Building+The+Mummy+Sweets+%E2%80%94+prod+auth%2C+real+orders%2C+no+demos;Sahayog+%E2%80%94+AI+disaster+response+%C2%B7+PostGIS+%C2%B7+Kafka+(soon);Async+Python+%C2%B7+SQLAlchemy+%C2%B7+Docker+%C2%B7+CI%2FCD;I+don't+want+framework+knowledge.+I+want+engineering+judgment." alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)&nbsp;
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shekhar_1010)&nbsp;
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shekhar_1010)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
@@ -20,50 +18,69 @@
 
 ## `$ whoami`
 
-Backend and full-stack engineer from **Dhapasi, Kathmandu** — currently in BSc CSIT at Amrit Campus while shipping production systems that real people actually pay to use.
+Backend and full-stack engineer from **Dhapasi, Kathmandu** — studying BSc CSIT at Amrit Campus while building real production systems.
 
-My stack is **MERN/PERN** at the core. I'm going deep into **Python, Django, and FastAPI** — not to put logos on a resume, but because I want to own the full backend: async endpoints, distributed job queues, proper data modeling, the whole thing.
+I'm not chasing tutorials. I'm building two actual applications right now — a restaurant platform and an AI-powered disaster-response system — and using them to understand *why* systems are designed the way they are, not just how to make them work.
 
-I learn by building things that are live and breaking, then fixing them. That cycle — ship, observe, break, understand — is how I've grown faster than any course could teach me.
-
-> *"Every commit is a promise — to the problem, to the people using it, and to the engineer I'm becoming."*
+> The question I ask before writing any code: **what happens when this fails at 3AM under concurrent load?**
 
 📍 Dhapasi, Kathmandu &nbsp;·&nbsp; 📬 [sharmashekhar20050@gmail.com](mailto:sharmashekhar20050@gmail.com) &nbsp;·&nbsp; 📞 [+977-976-557-1937](tel:+9779765571937)
 
 ---
 
-## `$ cat stack.py`
+## `$ cat current_focus.py`
 
 ```python
 ram = {
-    "location"   : "Dhapasi, Kathmandu, Nepal",
-    "education"  : "BSc CSIT @ Amrit Campus, Lainchaur",
-
-    # Production-tested — I've debugged these at midnight
-    "backend"    : ["Node.js / Express", "Django (deepening fast)", "FastAPI (deepening fast)"],
-    "frontend"   : ["React", "Next.js 14", "TypeScript", "TailwindCSS", "Framer Motion"],
-    "databases"  : ["PostgreSQL", "MongoDB", "Redis"],
-    "orm"        : ["Prisma", "Mongoose", "Django ORM"],
-
-    # Actually integrated, not just listed
-    "ai_stack"   : ["OpenAI API", "Claude API", "Gemini", "RAG (active)"],
-    "payments"   : ["Stripe — webhooks, subscriptions, checkout, refunds"],
-    "realtime"   : ["Socket.IO", "WebSockets", "Inngest background jobs"],
-    "devops"     : ["Docker", "Nginx", "Vercel", "Render", "GitHub Actions"],
-    "auth"       : ["JWT", "OAuth / Passport.js", "NextAuth.js", "RBAC"],
-
-    # The roadmap — not aspirational, actively in progress
-    "leveling_up": [
-        "Django REST Framework — production-grade Python APIs",
-        "FastAPI async — Pydantic v2, dependency injection, lifespan events",
-        "PostgreSQL — query plans, indexes, EXPLAIN ANALYZE",
-        "Distributed systems — queues, idempotency, eventual consistency",
-        "AI Engineering — RAG pipelines, tool-use agents, LLM observability",
-        "Kubernetes — because Docker Compose only takes you so far",
+    "currently_building": [
+        "🍱 The Mummy Sweets and Corner — production restaurant platform",
+        "🆘 Sahayog — AI disaster response + geospatial mutual-aid system",
     ],
 
-    "philosophy" : "Ship real things. Learn from what breaks. Repeat.",
-    "status"     : "Open to backend, full-stack, or AI engineering roles",
+    "backend": {
+        "primary"  : ["FastAPI", "async/await", "Async SQLAlchemy", "Alembic"],
+        "deepening": ["Django", "Django REST Framework"],
+        "infra"    : ["PostgreSQL", "Redis", "Celery", "Docker / Compose"],
+        "auth"     : ["JWT", "HttpOnly cookies", "access + refresh tokens", "RBAC"],
+        "storage"  : ["Cloudinary", "background image processing"],
+    },
+
+    "frontend": {
+        "core"    : ["Next.js App Router", "React", "TypeScript", "TailwindCSS"],
+        "data"    : ["TanStack React Query", "Zustand", "Axios interceptors"],
+        "forms"   : ["React Hook Form", "Zod"],
+        "ui"      : ["shadcn/ui"],
+    },
+
+    "previously_shipped": [
+        "Multi-vendor e-commerce (Stripe webhooks, Inngest jobs, OpenAI)",
+        "AI Resume Builder (PERN + OpenAI)",
+        "Next.js 14 Blog (NextAuth, RBAC, ISR)",
+        "Expense Tracker (MERN, Chart.js, JWT)",
+    ],
+
+    "engineering_thinking": [
+        "Why access tokens expire → why refresh tokens exist → where each lives",
+        "What happens when 10 requests hit 401 simultaneously → refresh races",
+        "PostgreSQL EXPLAIN ANALYZE → index strategy → query planning",
+        "Redis as cache vs broker → TTL → distributed locking → rate limiting",
+        "Celery retry logic → idempotency → task failure handling",
+        "Server Components vs React Query → hydration/dehydration boundary",
+    ],
+
+    "leveling_up": [
+        "PostgreSQL query optimization + indexing strategy",
+        "Observability — structured logging, tracing, metrics",
+        "Testing — unit, integration, async test patterns",
+        "CI/CD — GitHub Actions, Docker registry, migrations in prod",
+        "PostGIS + geospatial queries (for Sahayog)",
+        "Kafka + event-driven architecture",
+        "Distributed systems — consistency, fault tolerance, queues",
+        "Kubernetes — because Compose only takes you so far",
+    ],
+
+    "philosophy": "Ship real things. Understand what breaks. Build for the next order of magnitude.",
+    "status"    : "Open to backend, full-stack, or AI engineering roles",
 }
 ```
 
@@ -75,14 +92,34 @@ ram = {
 <tr>
 <td width="50%" valign="top">
 
+### 🍱 The Mummy Sweets & Corner
+`FastAPI · Async SQLAlchemy · PostgreSQL · Redis · Celery · Next.js · Cloudinary`
+
+Full restaurant platform built end-to-end, solo. Production-quality auth with HttpOnly cookies, access/refresh token flows with race-condition handling, RBAC for customers/admins/delivery. Async background jobs for image processing. This is where I'm building real backend engineering judgment — not following a course.
+
+`[In active development]`
+
+</td>
+<td width="50%" valign="top">
+
+### 🆘 Sahayog — AI Disaster Response
+`FastAPI · PostGIS · PostgreSQL · Redis · Celery · AI triage · Next.js`
+
+AI-powered disaster-response and community mutual-aid platform. Handles incident reporting, emergency requests, volunteer coordination, blood donors, shelter locations, and AI-assisted incident prioritization. My gateway into event-driven architecture, geospatial systems, and eventually Kafka.
+
+`[In active development — team of 3]`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 Multi-Vendor E-Commerce
-`Node.js · PostgreSQL · Prisma · React · Redux · Stripe · OpenAI · Inngest · Cloudinary`
+`Node.js · PostgreSQL · Prisma · React · Stripe · OpenAI · Inngest`
 
-Full marketplace — multi-tenant vendor management, Stripe webhooks that actually fire, background job automation via Inngest, AI-generated product descriptions, admin analytics dashboard.
+Full marketplace with multi-tenant vendor management, Stripe webhooks, Inngest background jobs, AI-generated product descriptions, admin analytics. Processes real orders.
 
-**Not a demo. It processes real orders.**
-
-[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://ecom-app-gilt.vercel.app/)&nbsp;
+[![Live](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://ecom-app-gilt.vercel.app/)&nbsp;
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024/ECOM_APP)
 
 </td>
@@ -91,37 +128,9 @@ Full marketplace — multi-tenant vendor management, Stripe webhooks that actual
 ### 📄 AI Resume Builder
 `React · Node.js · PostgreSQL · OpenAI · TailwindCSS`
 
-AI-powered resume generator with real user accounts, multiple professional templates, real-time preview, PDF export, and ATS optimization hints.
+AI resume generator with real accounts, multiple templates, real-time preview, PDF export, and ATS optimization hints. Built because I needed one — stayed because others did too.
 
-**Built because I needed one. Stayed because others did too.**
-
-[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://resume-pern-frontend.vercel.app/)&nbsp;
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Next.js 14 Blog Platform
-`Next.js 14 · MongoDB · NextAuth.js · App Router · ISR`
-
-Full CMS with GitHub OAuth, RBAC, admin moderation, draft system, SEO, and ISR caching. Auth done properly — edge cases included.
-
-[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://next14-starter-31as.vercel.app/)&nbsp;
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
-
-</td>
-<td width="50%" valign="top">
-
-### 💸 Expense Tracker Pro
-`MongoDB · Express · React · Node.js · Chart.js · Redux · JWT`
-
-Personal finance system with category tracking, budget alerts, Chart.js visualization, recurring expenses, and CSV export.
-
-**Clean MERN. The code actually holds up.**
-
-[![Launch](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://mern-expense-tracker-frontend-nine.vercel.app/)&nbsp;
+[![Live](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://resume-pern-frontend.vercel.app/)&nbsp;
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 </td>
@@ -136,59 +145,88 @@ Personal finance system with category tracking, budget alerts, Chart.js visualiz
 
 ---
 
-## `$ cat engineering_focus.md`
+## `$ cat architecture.txt`
 
-**Backend Architecture** — APIs that behave under load. Auth that covers edge cases. Payment flows with idempotent webhook handling. Background jobs that fail loudly, not silently. I'm going deeper with Django REST Framework and FastAPI's async model — learning to think in Python the way I already think in JS.
+**Auth flow I'm actually building:**
+Login → FastAPI → Access Token (response body)
++ Refresh Token (HttpOnly cookie)
+↓
+Frontend: Access token in Zustand (memory only)
+↓
+Axios attaches token to every request
+↓
+401 received → Axios response interceptor fires
+↓
+refreshPromise (single shared promise)
+prevents 10 simultaneous refresh races
+↓
+New access token → retry original request
 
-**Python Ecosystem** — Actively building real fluency. DRF viewsets, serializers, FastAPI dependency injection, Pydantic v2 validation. Not just syntax — I'm learning *when and why* to reach for each pattern. This is the corner of my stack I'm most focused on right now.
 
-**AI Integration** — I've put OpenAI into production. I know what it costs, where latency compounds, how to handle partial failures, and how to structure prompts for deterministic output. Next on the list: RAG pipelines, tool-use agents, LLM observability with real memory.
+**Next.js + React Query boundary:**
 
-**System Design Thinking** — Multi-tenant isolation, event-driven patterns, job queues, the real tradeoffs between a well-structured monolith and premature microservices. Building this mental model deliberately, not by accident from tutorials.
+Public route (/menu, /product/[id])
+↓
+Server Component fetches → passes as initialData
+↓
+React Query hydrates — no double fetch
+↓
+Client interactions (filters, pagination, mutations)
+→ React Query takes over
+→ Optimistic updates + background refetch
 
-**Real-Time & DevOps** — Socket.IO at scale, Nginx reverse proxying, Docker-based deploys, GitHub Actions CI/CD. I care about what happens after `git push`.
+
+**How I approach every database problem:**
+
+Business problem
+↓
+Raw SQL first — understand the query
+↓
+EXPLAIN ANALYZE — understand the plan
+↓
+Index strategy — understand the cost
+↓
+SQLAlchemy equivalent — understand the ORM
+↓
+Production considerations — understand at scale
+
 
 ---
 
-## `$ tech --list --used-in-prod`
+## `$ tech --all`
 
 <div align="center">
 
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
 
-**Data**
+**Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square)
-
-**Infrastructure**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square)
 
 **AI & Payments**
 
@@ -203,20 +241,30 @@ Personal finance system with category tracking, budget alerts, Chart.js visualiz
 
 ---
 
-## `$ git log --stat`
+## `$ git log --oneline`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ram2005024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&icon_color=00ff88&text_color=c9f0da&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2005024&theme=tokyonight&hide_border=true&background=0a0a0b&ring=00ff88&fire=ff5c35&currStreakLabel=00ff88&dates=c9f0da&sideLabels=c9f0da" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ram2005024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&icon_color=00ff88&text_color=7effc4&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2005024&theme=tokyonight&hide_border=true&background=0a0a0b&ring=00ff88&fire=ff5c35&currStreakLabel=00ff88&dates=7effc4&sideLabels=7effc4" />
 
 <br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&text_color=c9f0da&langs_count=10" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&text_color=7effc4&langs_count=10" />
 
-<br/>
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ram2005024&theme=react-dark&hide_border=true&bg_color=0a0a0b&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88)
+---
+
+## `$ watch snake eat --my-commits`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ram2005024/ram2005024/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ram2005024/ram2005024/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ram2005024/ram2005024/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -224,21 +272,34 @@ Personal finance system with category tracking, budget alerts, Chart.js visualiz
 
 ## `$ cat hiring.txt`
 
-Open to **backend, full-stack, or AI engineering roles** — and I'll be straight with you.
+Open to **backend, full-stack, or AI engineering roles** — and I'll be direct.
 
-I have production experience with MERN/PERN. I'm actively building Python/Django/FastAPI depth right now — not as a buzzword pivot, but because I genuinely want to own more of the stack. I learn fast because I learn by shipping, not by watching.
+I can build and ship features. My gap right now isn't implementation — it's the engineering judgment that comes from seeing systems fail, scale, and get redesigned. I'm closing that gap by building real things in production, understanding why they break, and going one level deeper every day.
 
-I'm not the engineer who knows everything yet. I'm the engineer who shows up every day, takes ownership of broken things, asks real questions, and closes the gap between what I know and what the problem needs.
+I'm not collecting tools. I'm building a mental model:
 
-I want to work on a team that ships things worth shipping. Where code review is an actual conversation. Where being wrong is fine as long as you figure out why. Where the goal isn't just sprint velocity — it's building something that matters.
+What is the actual problem?
+↓
+What are my options?
+↓
+What are the trade-offs?
+↓
+What happens under failure?
+↓
+What happens under concurrency?
+↓
+What happens when this scales 10x?
 
-> **I'm not looking for a job. I'm looking for a problem worth solving and a team worth solving it with.**
+
+I want to work somewhere that cares about building something real. Where code review is a real conversation. Where you can be wrong without it defining you. Where the architecture decisions have actual reasons behind them.
+
+> **I'm not looking for a job. I'm looking for a problem worth owning.**
 
 ---
 
 <div align="center">
 
-**Let's build something real.**
+**Let's build.**
 
 <br/>
 
@@ -253,6 +314,6 @@ I want to work on a team that ships things worth shipping. Where code review is 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:001a0f,100:0a0a0b&height=120&section=footer&text=Kathmandu%20%E2%86%92%20Built%20to%20Scale&fontSize=20&fontColor=c9f0da&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003320,100:0a0a0b&height=120&section=footer&text=Kathmandu%20%E2%86%92%20Built%20to%20Scale&fontSize=18&fontColor=7effc4&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
