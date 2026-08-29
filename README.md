@@ -1,26 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0b,40:001a0f,80:003320,100:00ff88&height=200&section=header&text=Ram%20Sharma&fontSize=60&fontColor=00ff88&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Full%20Stack&descAlignY=75&descSize=16&descColor=7effc4&stroke=00ff88&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0b,30:001a0f,70:003320,100:00ff88&height=220&section=header&text=Ram%20Sharma&fontSize=65&fontColor=00ff88&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full%20Stack&descAlignY=75&descSize=17&descColor=7effc4&stroke=00ff88&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=500&color=00ff88&center=true&vCenter=true&width=750&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Celery;Building+The+Mummy+Sweets+%E2%80%94+prod+auth%2C+real+orders%2C+no+demos;Sahayog+%E2%80%94+AI+disaster+response+%C2%B7+PostGIS+%C2%B7+Kafka+(soon);Async+Python+%C2%B7+SQLAlchemy+%C2%B7+Docker+%C2%B7+CI%2FCD;I+don't+want+framework+knowledge.+I+want+engineering+judgment." alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2000&pause=400&color=00ff88&center=true&vCenter=true&multiline=false&width=800&lines=FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Celery;Building+The+Mummy+Sweets+%E2%80%94+prod+auth%2C+real+orders%2C+no+demos;Sahayog+%E2%80%94+AI+disaster+response+%E2%80%A2+PostGIS+%E2%80%A2+Kafka+%28soon%29;Async+Python+%E2%80%A2+SQLAlchemy+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;I+don%27t+want+framework+knowledge.+I+want+engineering+judgment." />
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)&nbsp;
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shekhar_1010)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shekhar_1010)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ff88.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779765571937)
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
 ## `$ whoami`
 
-Backend and full-stack engineer from **Dhapasi, Kathmandu** — studying BSc CSIT at Amrit Campus while building real production systems.
+Backend and full-stack engineer from **Dhapasi, Kathmandu** — BSc CSIT at Amrit Campus, building real production systems while studying.
 
-I'm not chasing tutorials. I'm building two actual applications right now — a restaurant platform and an AI-powered disaster-response system — and using them to understand *why* systems are designed the way they are, not just how to make them work.
+I'm not chasing tutorials. I'm building two actual applications — a restaurant platform and an AI disaster-response system — and using them to understand *why* systems are designed the way they are, not just how to make them work.
 
 > The question I ask before writing any code: **what happens when this fails at 3AM under concurrent load?**
 
@@ -46,10 +58,10 @@ ram = {
     },
 
     "frontend": {
-        "core"    : ["Next.js App Router", "React", "TypeScript", "TailwindCSS"],
-        "data"    : ["TanStack React Query", "Zustand", "Axios interceptors"],
-        "forms"   : ["React Hook Form", "Zod"],
-        "ui"      : ["shadcn/ui"],
+        "core"  : ["Next.js App Router", "React", "TypeScript", "TailwindCSS"],
+        "data"  : ["TanStack React Query", "Zustand", "Axios interceptors"],
+        "forms" : ["React Hook Form", "Zod"],
+        "ui"    : ["shadcn/ui"],
     },
 
     "previously_shipped": [
@@ -95,7 +107,7 @@ ram = {
 ### 🍱 The Mummy Sweets & Corner
 `FastAPI · Async SQLAlchemy · PostgreSQL · Redis · Celery · Next.js · Cloudinary`
 
-Full restaurant platform built end-to-end, solo. Production-quality auth with HttpOnly cookies, access/refresh token flows with race-condition handling, RBAC for customers/admins/delivery. Async background jobs for image processing. This is where I'm building real backend engineering judgment — not following a course.
+Full restaurant platform — built end-to-end, solo. Production-quality auth with HttpOnly cookies, access/refresh token flows with concurrent-request race handling, RBAC for customers/admins/delivery. Async Celery jobs for image processing. This is where I'm building real backend engineering judgment.
 
 `[In active development]`
 
@@ -105,7 +117,7 @@ Full restaurant platform built end-to-end, solo. Production-quality auth with Ht
 ### 🆘 Sahayog — AI Disaster Response
 `FastAPI · PostGIS · PostgreSQL · Redis · Celery · AI triage · Next.js`
 
-AI-powered disaster-response and community mutual-aid platform. Handles incident reporting, emergency requests, volunteer coordination, blood donors, shelter locations, and AI-assisted incident prioritization. My gateway into event-driven architecture, geospatial systems, and eventually Kafka.
+AI-powered disaster-response and community mutual-aid system. Incident reporting, emergency requests, volunteer coordination, blood donors, shelter locations, AI-assisted triage. My gateway into event-driven architecture, geospatial systems, and Kafka.
 
 `[In active development — team of 3]`
 
@@ -117,10 +129,10 @@ AI-powered disaster-response and community mutual-aid platform. Handles incident
 ### 🛒 Multi-Vendor E-Commerce
 `Node.js · PostgreSQL · Prisma · React · Stripe · OpenAI · Inngest`
 
-Full marketplace with multi-tenant vendor management, Stripe webhooks, Inngest background jobs, AI-generated product descriptions, admin analytics. Processes real orders.
+Full marketplace — multi-tenant vendor management, Stripe webhooks, Inngest background jobs, AI product descriptions, admin analytics. Processes real orders.
 
-[![Live](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://ecom-app-gilt.vercel.app/)&nbsp;
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024/ECOM_APP)
+[![Live](https://img.shields.io/badge/Live_App-%2300ff88.svg?style=flat-square&logo=vercel&logoColor=black)](https://ecom-app-gilt.vercel.app/)&nbsp;
+[![Source](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024/ECOM_APP)
 
 </td>
 <td width="50%" valign="top">
@@ -128,10 +140,10 @@ Full marketplace with multi-tenant vendor management, Stripe webhooks, Inngest b
 ### 📄 AI Resume Builder
 `React · Node.js · PostgreSQL · OpenAI · TailwindCSS`
 
-AI resume generator with real accounts, multiple templates, real-time preview, PDF export, and ATS optimization hints. Built because I needed one — stayed because others did too.
+AI resume generator — real accounts, multiple templates, real-time preview, PDF export, ATS optimization hints. Built because I needed one. Stayed because others did too.
 
-[![Live](https://img.shields.io/badge/Live_App-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://resume-pern-frontend.vercel.app/)&nbsp;
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
+[![Live](https://img.shields.io/badge/Live_App-%2300ff88.svg?style=flat-square&logo=vercel&logoColor=black)](https://resume-pern-frontend.vercel.app/)&nbsp;
+[![Source](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 </td>
 </tr>
@@ -139,7 +151,7 @@ AI resume generator with real accounts, multiple templates, real-time preview, P
 
 <div align="center">
 
-[![All Repos](https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram2005024?tab=repositories)
+[![All Repos](https://img.shields.io/badge/All_Repositories-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram2005024?tab=repositories)
 
 </div>
 
@@ -158,9 +170,9 @@ Axios attaches token to every request
 401 received → Axios response interceptor fires
 ↓
 refreshPromise (single shared promise)
-prevents 10 simultaneous refresh races
+prevents N simultaneous refresh races
 ↓
-New access token → retry original request
+New access token → retry all queued requests
 
 
 **Next.js + React Query boundary:**
@@ -169,26 +181,20 @@ Public route (/menu, /product/[id])
 ↓
 Server Component fetches → passes as initialData
 ↓
-React Query hydrates — no double fetch
+React Query hydrates — zero double fetch
 ↓
 Client interactions (filters, pagination, mutations)
 → React Query takes over
 → Optimistic updates + background refetch
 
 
-**How I approach every database problem:**
+**Database mental model:**
 
-Business problem
+Business problem → Raw SQL → EXPLAIN ANALYZE
 ↓
-Raw SQL first — understand the query
+Index strategy → SQLAlchemy equivalent
 ↓
-EXPLAIN ANALYZE — understand the plan
-↓
-Index strategy — understand the cost
-↓
-SQLAlchemy equivalent — understand the ORM
-↓
-Production considerations — understand at scale
+Production considerations at scale
 
 
 ---
@@ -199,58 +205,60 @@ Production considerations — understand at scale
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge)
 
-**Data & Infrastructure**
+**Data & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **AI & Payments**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square)
-![Inngest](https://img.shields.io/badge/Inngest-5B2EFF?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-%23191919.svg?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge)
 
 </div>
 
 ---
 
-## `$ git log --oneline`
+## `$ github-stats --all`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ram2005024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&icon_color=00ff88&text_color=7effc4&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2005024&theme=tokyonight&hide_border=true&background=0a0a0b&ring=00ff88&fire=ff5c35&currStreakLabel=00ff88&dates=7effc4&sideLabels=7effc4" />
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ram2005024&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&text_color=7effc4&langs_count=10" />
+### 📊 Stats
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ram2005024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&icon_color=00ff88&text_color=7effc4&ring_color=00ff88&include_all_commits=true&show=reviews,prs_merged" />
+<img height="180" src="https://streak-stats.demolab.com?user=ram2005024&theme=tokyonight&hide_border=true&background=0a0a0b&ring=00ff88&fire=ff5c35&currStreakLabel=00ff88&dates=7effc4&sideLabels=7effc4&sideNums=00ff88&currStreakNum=00ff88" />
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram2005024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=00ff88&text_color=7effc4&langs_count=10&hide=html,css" />
 
 </div>
 
@@ -270,6 +278,20 @@ Production considerations — understand at scale
 
 ---
 
+## `$ github-summary --cards`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ram2005024&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ram2005024&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ram2005024&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ram2005024&theme=tokyonight" width="32%"/>
+
+</div>
+
+---
+
 ## `$ cat hiring.txt`
 
 Open to **backend, full-stack, or AI engineering roles** — and I'll be direct.
@@ -278,20 +300,12 @@ I can build and ship features. My gap right now isn't implementation — it's th
 
 I'm not collecting tools. I'm building a mental model:
 
-What is the actual problem?
-↓
-What are my options?
-↓
-What are the trade-offs?
-↓
-What happens under failure?
-↓
-What happens under concurrency?
-↓
-What happens when this scales 10x?
+What is the actual problem? → What are my options?
+What are the trade-offs? → What happens under failure?
+What happens under concurrency? → What happens when this scales 10x?
 
 
-I want to work somewhere that cares about building something real. Where code review is a real conversation. Where you can be wrong without it defining you. Where the architecture decisions have actual reasons behind them.
+I want to work somewhere that cares about building something real. Where code review is a real conversation. Where you can be wrong without it defining you. Where architecture decisions have actual reasons.
 
 > **I'm not looking for a job. I'm looking for a problem worth owning.**
 
@@ -303,17 +317,17 @@ I want to work somewhere that cares about building something real. Where code re
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram2005024)
+[![Email](https://img.shields.io/badge/Email_Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashekhar20050@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sharma-7b8426316/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ff88.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-react-jdd5.vercel.app/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram2005024)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ram2005024&style=flat-square&color=00ff88&label=profile+views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ram2005024&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003320,100:0a0a0b&height=120&section=footer&text=Kathmandu%20%E2%86%92%20Built%20to%20Scale&fontSize=18&fontColor=7effc4&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003320,100:0a0a0b&height=130&section=footer&text=Kathmandu%20%E2%86%92%20Built%20to%20Scale&fontSize=20&fontColor=7effc4&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
